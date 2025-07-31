@@ -1,0 +1,9 @@
+from functions.journal_func import save_to_journal
+
+entry = {
+    "timestamp": "2025-07-25T10:55:00",
+    "user": "XTTS still struggling with latency spikes.",
+    "nova": "Let's profile the audio buffer allocation."
+}
+
+save_to_journal(entry)
