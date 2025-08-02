@@ -1,2 +1,9 @@
-# WikiBot
-Your personal; offline wiki bot!:smile: hell yeah
+# MAINBOT
+GOALS:
+- GOOD MEMORY
+- ADD WIKL ETC
+- ABILITY TO READ PDF
+- LIGHTER
+- UPGRADE UI
+- VOICE(?)
+- FINAL PRODUCT
