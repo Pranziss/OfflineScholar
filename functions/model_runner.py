@@ -1,6 +1,6 @@
 import subprocess
 
-def run_model(prompt, model_name="nova"):
+def run_model(prompt, model_name="qwen3:1.7b"):
     try:
         result = subprocess.run(
             ["ollama", "run", model_name, prompt],

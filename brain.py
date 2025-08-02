@@ -1,1 +1,1 @@
-nova = "nova"
+qwen3 = "qwen3:1.7b"
